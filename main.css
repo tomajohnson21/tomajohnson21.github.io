@@ -1,0 +1,27 @@
+h1 {
+    color: darkcyan;
+}
+
+ul {
+    background-color: aquamarine;
+}
+
+ul li:first-child {
+    color: green;
+}
+
+ul li:nth-child(2) {
+    color: purple;
+}
+
+ul li:nth-child(2) {
+    color: blue;
+}
+
+ul li:nth-child(2) {
+    color: indigo;
+}
+
+ul li:nth-child(2) {
+    color: darkred;
+}
